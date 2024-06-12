@@ -1,0 +1,78 @@
+[
+    {
+        "Status": 200,
+        "Login": "test",
+        "Redirect_link": "https://www.furlenco.com/?utm_source=admitad&utm_medium=13130_&utm_campaign=affiliate-admitad&utm_term=cps&tagtag_uid=a6cec64277cd26612ec9a7869a4c181c",
+        "Cookie": {
+            "domain": ".furlenco.com",
+            "expiry": 1720732167,
+            "httpOnly": false,
+            "name": "tagtag_aid",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "value": "a6cec64277cd26612ec9a7869a4c181c"
+        },
+        "admitad_uid": "a6cec64277cd26612ec9a7869a4c181c",
+        "Attribution": "admitad"
+    },
+    {
+        "Status": 200,
+        "Login": "2222",
+        "Redirect_link": "https://www.bigbox.com.mx/?tagtag_uid=eacda33327da22aa701e03f12c6a8078&utm_source=admitad",
+        "Cookie": {
+            "domain": ".bigbox.com.mx",
+            "expiry": 1725916174,
+            "httpOnly": false,
+            "name": "tagtag_aid",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "value": "eacda33327da22aa701e03f12c6a8078"
+        },
+        "admitad_uid": "eacda33327da22aa701e03f12c6a8078",
+        "Attribution": "admitad"
+    },
+    {
+        "Status": 200,
+        "Login": "tushka",
+        "Redirect_link": "https://dzen.ru/showcaptcha?cc=1&mt=2A483C4B1193B4B3F70A1F94F6007DAA69525D7CC8FB5CB5D02E060A72EBE5FFBE952976FA413D5DAAF802818CD15A67572103AF6DBE821F69FE317F7CD2AD295AD481D784F0695FA85EFB44AA62874CD1DE4D86920656F8671BD1A12C2C37373F9C59A6B441364619BAFE790E7A63C90B8CBFB645105123423B76B4F09E9C21E0D8C49BAB141E095C7D49E0D4ECD950CCFF5558E23036B5A8C8AD78E1A0B92833F254928EED4D024937EEFD46AC78FA57F5E63BD09DC25F43B9DCCEC5EF61BE25555CB30640A5D03B8C0955E623A56764A84C22EDD6AD3A2065F6&retpath=aHR0cDovL2R6ZW4ucnUvP3lyZWRpcmVjdD10cnVl_2094b5c8729c6b90cdac0d93c39ec8c7&t=2/1718140182/5ef3b20aed0c1ed71993b92e01e46cb6&u=76f57ea2-ad796bee-62b8c2f8-bc33dbe5&s=d90c7411c4bb0c8d7cb8c22076e3f4fd",
+        "Cookie": null,
+        "admitad_uid": "Error, check tracking code",
+        "Attribution": "Error, check deduplication code"
+    },
+    {
+        "Status": 200,
+        "Login": "4444",
+        "Redirect_link": "https://carda-sa.com/products/%D9%85%D8%B3%D8%A7%D8%AC-%D8%A7%D9%84%D8%B4%D8%B9%D8%B1?utm_source=admitad&tagtag_uid=b0bfd6dcd2de171d7de73894bb7da99a",
+        "Cookie": {
+            "domain": ".carda-sa.com",
+            "expiry": 1720732199,
+            "httpOnly": false,
+            "name": "tagtag_aid",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "value": "b0bfd6dcd2de171d7de73894bb7da99a"
+        },
+        "admitad_uid": "b0bfd6dcd2de171d7de73894bb7da99a",
+        "Attribution": "admitad"
+    },
+    {
+        "Status": 200,
+        "Login": "5555",
+        "Redirect_link": "https://sexshop1.pl/?utm_source=admitad&tagtag_uid=6acc0685ff167ed5fc8a14c9af3875c8",
+        "Cookie": {
+            "domain": ".sexshop1.pl",
+            "expiry": 1722028212,
+            "httpOnly": false,
+            "name": "tagtag_aid",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "value": "6acc0685ff167ed5fc8a14c9af3875c8"
+        },
+        "admitad_uid": "6acc0685ff167ed5fc8a14c9af3875c8",
+        "Attribution": "admitad"
+    }
+]
