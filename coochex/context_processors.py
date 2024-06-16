@@ -11,16 +11,16 @@ def check_link_cookie(links: dict[str: str]) -> None:
     :param links:
     :return: None
     """
-    # Запускается браузер Chrome
+    # Start Chrome browser
     driver = webdriver.Chrome()
     error_results = []
     run_results = []
     for login, af_link in links.items():
         driver.get(af_link)
-        # Проверка доступности страницы
+        # Check page availability
         response = requests.get(af_link)
-        # Время на загрузку страницы
-        time.sleep(2)
+        # Time to load the page
+        time.sleep(1.5)
         cookie_t = driver.get_cookie('tagtag_aid')
         data = {
             'Status': response.status_code,
@@ -33,7 +33,7 @@ def check_link_cookie(links: dict[str: str]) -> None:
         if cookie_t is None:
             tt_cookie = 'Error, tracking code not found'
             data['admitad_uid'] = tt_cookie
-            # Собираются кампании без трекинг-кода
+            # Collecting campaings with no cookies created
             error_results.append(data)
         else:
             tt_cookie = cookie_t.get('value', 'No cookie found')
@@ -43,7 +43,7 @@ def check_link_cookie(links: dict[str: str]) -> None:
         else:
             dd_cookie = cookie_d.get('value', 'No deduplication cookie')
         data['Attribution'], data['admitad_uid'] = dd_cookie, tt_cookie
-        # Собираются результаты всей проверки
+        # Collecting whole run results
         run_results.append(data)
         print(data)
 
