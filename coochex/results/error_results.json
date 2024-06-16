@@ -1,10 +1,66 @@
 [
     {
         "Status": 200,
-        "Login": "tushka",
-        "Redirect_link": "https://dzen.ru/showcaptcha?cc=1&mt=2A483C4B1193B4B3F70A1F94F6007DAA69525D7CC8FB5CB5D02E060A72EBE5FFBE952976FA413D5DAAF802818CD15A67572103AF6DBE821F69FE317F7CD2AD295AD481D784F0695FA85EFB44AA62874CD1DE4D86920656F8671BD1A12C2C37373F9C59A6B441364619BAFE790E7A63C90B8CBFB645105123423B76B4F09E9C21E0D8C49BAB141E095C7D49E0D4ECD950CCFF5558E23036B5A8C8AD78E1A0B92833F254928EED4D024937EEFD46AC78FA57F5E63BD09DC25F43B9DCCEC5EF61BE25555CB30640A5D03B8C0955E623A56764A84C22EDD6AD3A2065F6&retpath=aHR0cDovL2R6ZW4ucnUvP3lyZWRpcmVjdD10cnVl_2094b5c8729c6b90cdac0d93c39ec8c7&t=2/1718140182/5ef3b20aed0c1ed71993b92e01e46cb6&u=76f57ea2-ad796bee-62b8c2f8-bc33dbe5&s=d90c7411c4bb0c8d7cb8c22076e3f4fd",
+        "Login": "mariavalen_MX",
+        "Redirect_link": "https://extension.giftmio.com/?utm_source=dummy_giftmio&utm_medium=referral&utm_campaign=extension&w=22162&c=44301&r=1&d=3&g=BY&x=7b1653cc177b252adc085eb0e7c874a9&y=3c7ff5a648e5523bb1404911c0141703",
         "Cookie": null,
-        "admitad_uid": "Error, check tracking code",
-        "Attribution": "Error, check deduplication code"
+        "admitad_uid": "Cookie not found",
+        "Attribution": "Cookie not found"
+    },
+    {
+        "Status": 200,
+        "Login": "superkicks_IN",
+        "Redirect_link": "https://www.superkicks.in/?utm_source=admitad&utm_medium=Affiliate&utm_campaign=13130_&tagtag_uid=6acaee76a3dbbd30bc11390eb09457ec",
+        "Cookie": null,
+        "admitad_uid": "Cookie not found",
+        "Attribution": "Cookie not found"
+    },
+    {
+        "Status": 200,
+        "Login": "samsungcom_MX",
+        "Redirect_link": "https://www.samsung.com/mx/?utm_source=admitad&tagtag_uid=bb94cfea094d3dbdd6baec7e38e732d1",
+        "Cookie": null,
+        "admitad_uid": "Cookie not found",
+        "Attribution": "Cookie not found"
+    },
+    {
+        "Status": 200,
+        "Login": "nutricaoat_BR",
+        "Redirect_link": "https://offerwall.admitad.com/wall/offers/?w=22162&c=97296&r=3&d=3&g=BY&x=37add3e402be2db8090590a91bb132fd&y=208f6facde8aa870162a4877f9137482",
+        "Cookie": null,
+        "admitad_uid": "Cookie not found",
+        "Attribution": "Cookie not found"
+    },
+    {
+        "Status": 200,
+        "Login": "continenta_BR",
+        "Redirect_link": "https://www.continentalbrasil.com.br/?utm_source=admitad&tagtag_uid=0983a4777d8ca4d957df227856a44e02",
+        "Cookie": null,
+        "admitad_uid": "Cookie not found",
+        "Attribution": "Cookie not found"
+    },
+    {
+        "Status": 200,
+        "Login": "lojaelectr_BR",
+        "Redirect_link": "https://loja.electrolux.com.br/?utm_source=admitad&tagtag_uid=202ff5c63b7393c7f58e75cb354e5b12",
+        "Cookie": null,
+        "admitad_uid": "Cookie not found",
+        "Attribution": "Cookie not found"
+    },
+    {
+        "Status": 200,
+        "Login": "silvermist_IN",
+        "Redirect_link": "https://silvermistjewelry.in/?utm_source=admitad&utm_medium=13130_&utm_campaign=admitad_may&tagtag_uid=36fff171d9ee0d443651f5eab9dab4f5",
+        "Cookie": null,
+        "admitad_uid": "Cookie not found",
+        "Attribution": "admitad"
+    },
+    {
+        "Status": 200,
+        "Login": "aratain_IN",
+        "Redirect_link": "https://www.arata.in/?utm_source=admitad&utm_medium=13130_&utm_campaign=22162&tagtag_uid=baa948c7cdff8cc535de275327fb13f2",
+        "Cookie": null,
+        "admitad_uid": "Cookie not found",
+        "Attribution": "admitad"
     }
 ]

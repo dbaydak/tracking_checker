@@ -31,7 +31,7 @@ def check_link_cookie(links: dict[str: str]) -> None:
             'Attribution': None
         }
         if cookie_t is None:
-            tt_cookie = 'Error, tracking code not found'
+            tt_cookie = 'Cookie not found'
             data['admitad_uid'] = tt_cookie
             # Collecting campaings with no cookies created
             error_results.append(data)
@@ -39,7 +39,7 @@ def check_link_cookie(links: dict[str: str]) -> None:
             tt_cookie = cookie_t.get('value', 'No cookie found')
         cookie_d = driver.get_cookie('deduplication_cookie')
         if cookie_d is None:
-            dd_cookie = 'Error, deduplication code not found'
+            dd_cookie = 'Cookie not found'
         else:
             dd_cookie = cookie_d.get('value', 'No deduplication cookie')
         data['Attribution'], data['admitad_uid'] = dd_cookie, tt_cookie
