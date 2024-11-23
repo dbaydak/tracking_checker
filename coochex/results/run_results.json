@@ -2,7 +2,7 @@
     {
         "Status": 200,
         "Login": "mariavalen_MX",
-        "Redirect_link": "https://extension.giftmio.com/?utm_source=dummy_giftmio&utm_medium=referral&utm_campaign=extension&w=22162&c=44301&r=1&d=3&g=BY&x=7b1653cc177b252adc085eb0e7c874a9&y=3c7ff5a648e5523bb1404911c0141703",
+        "Redirect_link": "https://ad.admitad.com/giftmio/dummy/?utm_source=broken_links&utm_medium=none&utm_campaign=none&w=22162&c=44301&r=1&d=3&g=RU&x=8d5a6850c41002d04a459dfdec80f265&y=fb665a09897ac6e3488845c64387787b",
         "Cookie": null,
         "admitad_uid": "Cookie not found",
         "Attribution": "Cookie not found"
@@ -10,261 +10,216 @@
     {
         "Status": 200,
         "Login": "migguzmanl_MX",
-        "Redirect_link": "https://www.levi.com.mx/?utm_source=admitad&tagtag_uid=f96eb7a63f80f66158aa6f56970d7cd9",
+        "Redirect_link": "https://www.levi.com.mx/?utm_source=admitad&tagtag_uid=e8e08ab599ca6066eb9fb4ed6ef549a9",
         "Cookie": {
             "domain": ".levi.com.mx",
-            "expiry": 1726352786,
+            "expiry": 1740160779,
             "httpOnly": false,
             "name": "tagtag_aid",
             "path": "/",
             "sameSite": "Lax",
             "secure": true,
-            "value": "f96eb7a63f80f66158aa6f56970d7cd9"
+            "value": "e8e08ab599ca6066eb9fb4ed6ef549a9"
         },
-        "admitad_uid": "f96eb7a63f80f66158aa6f56970d7cd9",
+        "admitad_uid": "e8e08ab599ca6066eb9fb4ed6ef549a9",
         "Attribution": "admitad"
     },
     {
         "Status": 200,
         "Login": "hyugalifec_IN",
-        "Redirect_link": "https://hyugalife.com/?utm_source=admitad&utm_medium=affiliate&utm_campaign=Admitad+CPS+campaign&utm_term=13130_&tagtag_uid=a79707d2969a1afaa0ae5c05e57a7155",
+        "Redirect_link": "https://hyugalife.com/?utm_source=admitad&utm_medium=affiliate&utm_campaign=Admitad+CPS+campaign&utm_term=13130_&tagtag_uid=bc642f841431051e9c05173f1f9a04b0",
         "Cookie": {
             "domain": ".hyugalife.com",
-            "expiry": 1726352796,
+            "expiry": 1740160853,
             "httpOnly": false,
             "name": "tagtag_aid",
             "path": "/",
             "sameSite": "None",
             "secure": true,
-            "value": "a79707d2969a1afaa0ae5c05e57a7155"
+            "value": "bc642f841431051e9c05173f1f9a04b0"
         },
-        "admitad_uid": "a79707d2969a1afaa0ae5c05e57a7155",
+        "admitad_uid": "bc642f841431051e9c05173f1f9a04b0",
         "Attribution": "admitad"
     },
     {
         "Status": 200,
         "Login": "cardasacom_SA",
-        "Redirect_link": "https://carda-sa.com/?utm_source=admitad&tagtag_uid=2437fbceeb4b5b8dec5947d830aa77bd",
-        "Cookie": {
-            "domain": ".carda-sa.com",
-            "expiry": 1721168804,
-            "httpOnly": false,
-            "name": "tagtag_aid",
-            "path": "/",
-            "sameSite": "Lax",
-            "secure": true,
-            "value": "2437fbceeb4b5b8dec5947d830aa77bd"
-        },
-        "admitad_uid": "2437fbceeb4b5b8dec5947d830aa77bd",
-        "Attribution": "admitad"
+        "Redirect_link": "https://ad.admitad.com/giftmio/dummy/?utm_source=broken_links&utm_medium=none&utm_campaign=none&w=22162&c=101198&r=1&d=3&g=RU&x=d211314ce530d261be5381538422ebc9&y=a20742679321891cd2f6e2cfb1c5f24f",
+        "Cookie": null,
+        "admitad_uid": "Cookie not found",
+        "Attribution": "Cookie not found"
     },
     {
         "Status": 200,
         "Login": "sexshpp1pl_PL",
-        "Redirect_link": "https://sexshop1.pl/?utm_source=admitad&tagtag_uid=e80782163bdb6344382f51033b612128",
+        "Redirect_link": "https://s-1.pl/?tagtag_uid=80eb21080aa10cbf40d1622be6ddd4f0&admitad_uid=80eb21080aa10cbf40d1622be6ddd4f0&utm_source=admitad",
         "Cookie": {
-            "domain": ".sexshop1.pl",
-            "expiry": 1722464809,
+            "domain": ".s-1.pl",
+            "expiry": 1736272893,
             "httpOnly": false,
             "name": "tagtag_aid",
             "path": "/",
             "sameSite": "Lax",
             "secure": true,
-            "value": "e80782163bdb6344382f51033b612128"
+            "value": "80eb21080aa10cbf40d1622be6ddd4f0"
         },
-        "admitad_uid": "e80782163bdb6344382f51033b612128",
+        "admitad_uid": "80eb21080aa10cbf40d1622be6ddd4f0",
         "Attribution": "admitad"
     },
     {
         "Status": 200,
         "Login": "officemake_AE",
-        "Redirect_link": "https://officemakeups.com/en?tagtag_uid=8d627f9e3f924af6662547ae2760c361&utm_source=admitad",
-        "Cookie": {
-            "domain": ".officemakeups.com",
-            "expiry": 1726352821,
-            "httpOnly": false,
-            "name": "tagtag_aid",
-            "path": "/",
-            "sameSite": "Lax",
-            "secure": true,
-            "value": "8d627f9e3f924af6662547ae2760c361"
-        },
-        "admitad_uid": "8d627f9e3f924af6662547ae2760c361",
-        "Attribution": "admitad"
+        "Redirect_link": "https://ad.admitad.com/giftmio/dummy/?utm_source=broken_links&utm_medium=none&utm_campaign=none&w=22162&c=93388&r=1&d=3&g=RU&x=1569531f95060a692824a883000d35c9&y=c173c55f240422b2c4e2d44488189c06",
+        "Cookie": null,
+        "admitad_uid": "Cookie not found",
+        "Attribution": "Cookie not found"
     },
     {
         "Status": 200,
         "Login": "inhousesa_SA",
-        "Redirect_link": "https://inhouse.sa/?utm_source=admitad&tagtag_uid=f04ba4248c03aadb22297e2b30cae6dd",
+        "Redirect_link": "https://inhouse.sa/?utm_source=admitad&tagtag_uid=3839a5835038563c8170e878f59d3a6c",
         "Cookie": {
             "domain": ".inhouse.sa",
-            "expiry": 1726352962,
+            "expiry": 1740160956,
             "httpOnly": false,
             "name": "tagtag_aid",
             "path": "/",
             "sameSite": "Lax",
             "secure": true,
-            "value": "f04ba4248c03aadb22297e2b30cae6dd"
+            "value": "3839a5835038563c8170e878f59d3a6c"
         },
-        "admitad_uid": "f04ba4248c03aadb22297e2b30cae6dd",
+        "admitad_uid": "3839a5835038563c8170e878f59d3a6c",
         "Attribution": "admitad"
     },
     {
         "Status": 200,
         "Login": "soulandpea_IN",
-        "Redirect_link": "https://soulandpeace.com/?utm_source=admitad&utm_medium=affiliate&utm_campaign=13130_&tagtag_uid=20acbf15ba616240f227cc17a4ea7876",
-        "Cookie": {
-            "domain": "soulandpeace.com",
-            "expiry": 1726352981,
-            "httpOnly": false,
-            "name": "tagtag_aid",
-            "path": "/",
-            "sameSite": "None",
-            "secure": true,
-            "value": "20acbf15ba616240f227cc17a4ea7876"
-        },
-        "admitad_uid": "20acbf15ba616240f227cc17a4ea7876",
-        "Attribution": "admitad"
+        "Redirect_link": "https://ad.admitad.com/giftmio/dummy/?utm_source=broken_links&utm_medium=none&utm_campaign=none&w=22162&c=100203&r=1&d=3&g=RU&x=659293a51bc24d54886fde18d3fdc1ff&y=c537ae3e459355c7cc8d919151cc6675",
+        "Cookie": null,
+        "admitad_uid": "Cookie not found",
+        "Attribution": "Cookie not found"
     },
     {
-        "Status": 200,
+        "Status": 403,
         "Login": "furlencocp_in",
-        "Redirect_link": "https://www.furlenco.com/?utm_source=admitad&utm_medium=13130_&utm_campaign=affiliate-admitad&utm_term=cps&tagtag_uid=536b9f426381c0f9bc71260a2fa5e878",
-        "Cookie": {
-            "domain": ".furlenco.com",
-            "expiry": 1721168986,
-            "httpOnly": false,
-            "name": "tagtag_aid",
-            "path": "/",
-            "sameSite": "Lax",
-            "secure": true,
-            "value": "536b9f426381c0f9bc71260a2fa5e878"
-        },
-        "admitad_uid": "536b9f426381c0f9bc71260a2fa5e878",
-        "Attribution": "admitad"
+        "Redirect_link": "https://www.furlenco.com/?utm_source=admitad&utm_medium=13130_&utm_campaign=affiliate-admitad&utm_term=cps&tagtag_uid=d1fabbe6152d1dacf680b1e7a14c070f",
+        "Cookie": null,
+        "admitad_uid": "Cookie not found",
+        "Attribution": "Cookie not found"
     },
     {
-        "Status": 200,
+        "Status": 471,
         "Login": "savanacom_CN",
-        "Redirect_link": "https://www.savana.com/?utm_source=admitad&utm_medium=13130_&tagtag_uid=bdb5f0ff3ab9c37c4b4a6725d1960c33",
-        "Cookie": {
-            "domain": ".savana.com",
-            "expiry": 1726352992,
-            "httpOnly": false,
-            "name": "tagtag_aid",
-            "path": "/",
-            "sameSite": "None",
-            "secure": true,
-            "value": "bdb5f0ff3ab9c37c4b4a6725d1960c33"
-        },
-        "admitad_uid": "bdb5f0ff3ab9c37c4b4a6725d1960c33",
+        "Redirect_link": "https://www.savana.com/",
+        "Cookie": null,
+        "admitad_uid": "Cookie not found",
         "Attribution": "Cookie not found"
     },
     {
         "Status": 200,
         "Login": "redlemonco_MX",
-        "Redirect_link": "https://www.redlemon.com.mx/?utm_source=admitad&tagtag_uid=e0ea7101e011406b0d28659462f0e222",
-        "Cookie": {
-            "domain": ".redlemon.com.mx",
-            "expiry": 1726352998,
-            "httpOnly": false,
-            "name": "tagtag_aid",
-            "path": "/",
-            "sameSite": "None",
-            "secure": true,
-            "value": "e0ea7101e011406b0d28659462f0e222"
-        },
-        "admitad_uid": "e0ea7101e011406b0d28659462f0e222",
-        "Attribution": "admitad"
+        "Redirect_link": "https://ad.admitad.com/giftmio/dummy/?utm_source=broken_links&utm_medium=none&utm_campaign=none&w=22162&c=100814&r=1&d=3&g=RU&x=314762c22d685074801fb403ce42fa75&y=04a7e6fbb9a4256faeadfa626ea2cf6a",
+        "Cookie": null,
+        "admitad_uid": "Cookie not found",
+        "Attribution": "Cookie not found"
     },
     {
         "Status": 200,
         "Login": "waldoscomm_MX",
-        "Redirect_link": "https://waldos.com.mx/?utm_source=admitad&tagtag_uid=7ca00c3b68eab198bd8b7168a414fe82#",
+        "Redirect_link": "https://waldos.com.mx/?utm_source=admitad&tagtag_uid=bbf3c19b7f8b1f624a1fed537ee5785a",
         "Cookie": {
             "domain": "waldos.com.mx",
-            "expiry": 1726353006,
+            "expiry": 1740161055,
             "httpOnly": false,
             "name": "tagtag_aid",
             "path": "/",
             "sameSite": "None",
             "secure": true,
-            "value": "7ca00c3b68eab198bd8b7168a414fe82"
+            "value": "bbf3c19b7f8b1f624a1fed537ee5785a"
         },
-        "admitad_uid": "7ca00c3b68eab198bd8b7168a414fe82",
+        "admitad_uid": "bbf3c19b7f8b1f624a1fed537ee5785a",
         "Attribution": "admitad"
     },
     {
         "Status": 200,
         "Login": "superkicks_IN",
-        "Redirect_link": "https://www.superkicks.in/?utm_source=admitad&utm_medium=Affiliate&utm_campaign=13130_&tagtag_uid=6acaee76a3dbbd30bc11390eb09457ec",
-        "Cookie": null,
-        "admitad_uid": "Cookie not found",
-        "Attribution": "Cookie not found"
+        "Redirect_link": "https://www.superkicks.in/?utm_source=admitad&utm_medium=Affiliate&utm_campaign=13130_&tagtag_uid=ebf39a290036040ed32c553bbacbb160",
+        "Cookie": {
+            "domain": ".superkicks.in",
+            "expiry": 1732989890,
+            "httpOnly": false,
+            "name": "tagtag_aid",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "value": "ebf39a290036040ed32c553bbacbb160"
+        },
+        "admitad_uid": "ebf39a290036040ed32c553bbacbb160",
+        "Attribution": "admitad"
     },
     {
         "Status": 200,
         "Login": "samsungcom_MX",
-        "Redirect_link": "https://www.samsung.com/mx/?utm_source=admitad&tagtag_uid=bb94cfea094d3dbdd6baec7e38e732d1",
+        "Redirect_link": "https://www.samsung.com/mx/?utm_source=admitad&tagtag_uid=da73508b17afb947b0f82df0daf8f41a",
+        "Cookie": {
+            "domain": "www.samsung.com",
+            "expiry": 1740161161,
+            "httpOnly": false,
+            "name": "tagtag_aid",
+            "path": "/",
+            "sameSite": "None",
+            "secure": true,
+            "value": "da73508b17afb947b0f82df0daf8f41a"
+        },
+        "admitad_uid": "da73508b17afb947b0f82df0daf8f41a",
+        "Attribution": "admitad"
+    },
+    {
+        "Status": 200,
+        "Login": "bigboxcomm_MX",
+        "Redirect_link": "https://www.bigbox.com.mx/?tagtag_uid=3337d67b528f8edaeeef7c001b5d6181&utm_source=admitad",
+        "Cookie": {
+            "domain": ".bigbox.com.mx",
+            "expiry": 1740161164,
+            "httpOnly": false,
+            "name": "tagtag_aid",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "value": "3337d67b528f8edaeeef7c001b5d6181"
+        },
+        "admitad_uid": "3337d67b528f8edaeeef7c001b5d6181",
+        "Attribution": "admitad"
+    },
+    {
+        "Status": 403,
+        "Login": "portalfmub_BR",
+        "Redirect_link": "https://portal.fmu.br/?utm_source=paid&utm_medium=admitad&tagtag_uid=88007f1dcf554bf834e0029dc9dbb62b",
         "Cookie": null,
         "admitad_uid": "Cookie not found",
         "Attribution": "Cookie not found"
     },
     {
-        "Status": 200,
-        "Login": "bigboxcomm_MX",
-        "Redirect_link": "https://www.bigbox.com.mx/?tagtag_uid=d8fd590b665efa9453ac9dda28ef6785&utm_source=admitad",
-        "Cookie": {
-            "domain": ".bigbox.com.mx",
-            "expiry": 1726353023,
-            "httpOnly": false,
-            "name": "tagtag_aid",
-            "path": "/",
-            "sameSite": "Lax",
-            "secure": true,
-            "value": "d8fd590b665efa9453ac9dda28ef6785"
-        },
-        "admitad_uid": "d8fd590b665efa9453ac9dda28ef6785",
-        "Attribution": "admitad"
-    },
-    {
-        "Status": 200,
-        "Login": "portalfmub_BR",
-        "Redirect_link": "https://matriculas.fmu.br/?utm_source=paid&utm_medium=admitad&tagtag_uid=73a33d2f9da64a409ae0461ebe42a974",
-        "Cookie": {
-            "domain": ".fmu.br",
-            "expiry": 1726353033,
-            "httpOnly": false,
-            "name": "tagtag_aid",
-            "path": "/",
-            "sameSite": "Lax",
-            "secure": true,
-            "value": "73a33d2f9da64a409ae0461ebe42a974"
-        },
-        "admitad_uid": "73a33d2f9da64a409ae0461ebe42a974",
-        "Attribution": "admitad"
-    },
-    {
         "Status": 403,
         "Login": "lojinhabab_BR",
-        "Redirect_link": "https://www.lojinhababyandme.com.br/?utm_source=admitad&tagtag_uid=bdd444275c4b59092bbad67e477c9eb4",
+        "Redirect_link": "https://www.lojinhababyandme.com.br/?utm_source=admitad&tagtag_uid=2754d1408c4126983935ee55ebae750a",
         "Cookie": {
             "domain": ".lojinhababyandme.com.br",
-            "expiry": 1726353040,
+            "expiry": 1740161205,
             "httpOnly": false,
             "name": "tagtag_aid",
             "path": "/",
             "sameSite": "Lax",
             "secure": true,
-            "value": "bdd444275c4b59092bbad67e477c9eb4"
+            "value": "2754d1408c4126983935ee55ebae750a"
         },
-        "admitad_uid": "bdd444275c4b59092bbad67e477c9eb4",
+        "admitad_uid": "2754d1408c4126983935ee55ebae750a",
         "Attribution": "admitad"
     },
     {
         "Status": 200,
         "Login": "nutricaoat_BR",
-        "Redirect_link": "https://offerwall.admitad.com/wall/offers/?w=22162&c=97296&r=3&d=3&g=BY&x=37add3e402be2db8090590a91bb132fd&y=208f6facde8aa870162a4877f9137482",
+        "Redirect_link": "https://ad.admitad.com/giftmio/dummy/?utm_source=broken_links&utm_medium=none&utm_campaign=none&w=22162&c=97296&r=1&d=3&g=RU&x=5ceac70f5ce240f5c8dcbe0bc95fbcd5&y=d2b5df7586fa8244d02da1075f10f6d5",
         "Cookie": null,
         "admitad_uid": "Cookie not found",
         "Attribution": "Cookie not found"
@@ -272,7 +227,7 @@
     {
         "Status": 200,
         "Login": "continenta_BR",
-        "Redirect_link": "https://www.continentalbrasil.com.br/?utm_source=admitad&tagtag_uid=0983a4777d8ca4d957df227856a44e02",
+        "Redirect_link": "https://ad.admitad.com/giftmio/dummy/?utm_source=broken_links&utm_medium=none&utm_campaign=none&w=22162&c=98665&r=1&d=3&g=RU&x=2c1d664ff91b51635c13da80f4bb6c97&y=ae8a0782025e0ed0e20fca097581fe60",
         "Cookie": null,
         "admitad_uid": "Cookie not found",
         "Attribution": "Cookie not found"
@@ -280,24 +235,15 @@
     {
         "Status": 200,
         "Login": "shopclubco_BR",
-        "Redirect_link": "https://www.shopclub.com.br/?utm_source=admitad&tagtag_uid=334268dff1925f5adcf44dc5a129ca62",
-        "Cookie": {
-            "domain": ".shopclub.com.br",
-            "expiry": 1726353061,
-            "httpOnly": false,
-            "name": "tagtag_aid",
-            "path": "/",
-            "sameSite": "Lax",
-            "secure": true,
-            "value": "334268dff1925f5adcf44dc5a129ca62"
-        },
-        "admitad_uid": "334268dff1925f5adcf44dc5a129ca62",
-        "Attribution": "admitad"
+        "Redirect_link": "https://ad.admitad.com/giftmio/dummy/?utm_source=broken_links&utm_medium=none&utm_campaign=none&w=22162&c=98664&r=1&d=3&g=RU&x=5ae5825ba3275df8276fb7667d150e62&y=7487bbfa1c21b35f2cd51816450629f4",
+        "Cookie": null,
+        "admitad_uid": "Cookie not found",
+        "Attribution": "Cookie not found"
     },
     {
         "Status": 200,
         "Login": "lojaelectr_BR",
-        "Redirect_link": "https://loja.electrolux.com.br/?utm_source=admitad&tagtag_uid=202ff5c63b7393c7f58e75cb354e5b12",
+        "Redirect_link": "https://ad.admitad.com/giftmio/dummy/?utm_source=broken_links&utm_medium=none&utm_campaign=none&w=22162&c=98661&r=1&d=3&g=RU&x=cedb83e3bb7e2505b49112c6e54363e9&y=fc23842664bdeaec3511b82a925a22e6",
         "Cookie": null,
         "admitad_uid": "Cookie not found",
         "Attribution": "Cookie not found"
@@ -305,68 +251,50 @@
     {
         "Status": 200,
         "Login": "bloomingwe_SA",
-        "Redirect_link": "https://bloomingwear.com/?utm_source=admitad&tagtag_uid=abe3b78cf373fa2e13b147e12766a14f",
-        "Cookie": {
-            "domain": "bloomingwear.com",
-            "expiry": 1726353084,
-            "httpOnly": false,
-            "name": "tagtag_aid",
-            "path": "/",
-            "sameSite": "None",
-            "secure": true,
-            "value": "abe3b78cf373fa2e13b147e12766a14f"
-        },
-        "admitad_uid": "abe3b78cf373fa2e13b147e12766a14f",
-        "Attribution": "admitad"
+        "Redirect_link": "https://ad.admitad.com/giftmio/dummy/?utm_source=broken_links&utm_medium=none&utm_campaign=none&w=22162&c=99584&r=1&d=3&g=RU&x=ee26074514ce7b2a9d6790ac870e9ec0&y=afee905b8a116638b90fa914aabc25d6",
+        "Cookie": null,
+        "admitad_uid": "Cookie not found",
+        "Attribution": "Cookie not found"
     },
     {
         "Status": 200,
         "Login": "punjabiadd_IN",
-        "Redirect_link": "https://punjabiadda.in/?utm_source=admitad&utm_medium=13130_&utm_campaign=affiliates&utm_term=cps&tagtag_uid=f32c0f6f4e8d4a7596864543a5e3bb54",
+        "Redirect_link": "https://ad.admitad.com/giftmio/dummy/?utm_source=broken_links&utm_medium=none&utm_campaign=none&w=22162&c=99302&r=1&d=3&g=RU&x=76207877f1326273ce6e0cf2c66e2d14&y=c537ae3e459355c7cc8d919151cc6675",
+        "Cookie": null,
+        "admitad_uid": "Cookie not found",
+        "Attribution": "Cookie not found"
+    },
+    {
+        "Status": 200,
+        "Login": "blendshome_ae",
+        "Redirect_link": "https://blendshome.com/?utm_source=admitad&tagtag_uid=3b436db73e9ada96a2bfbc7086e14012",
         "Cookie": {
-            "domain": ".punjabiadda.in",
-            "expiry": 1726353088,
+            "domain": ".blendshome.com",
+            "expiry": 1740161264,
             "httpOnly": false,
             "name": "tagtag_aid",
             "path": "/",
             "sameSite": "None",
             "secure": true,
-            "value": "f32c0f6f4e8d4a7596864543a5e3bb54"
+            "value": "3b436db73e9ada96a2bfbc7086e14012"
         },
-        "admitad_uid": "f32c0f6f4e8d4a7596864543a5e3bb54",
-        "Attribution": "admitad"
-    },
-    {
-        "Status": 200,
-        "Login": "blendshome_ae",
-        "Redirect_link": "https://blendshome.com/?utm_source=admitad&tagtag_uid=8306f3df287a03b6c7eb27f9a6f820f0",
-        "Cookie": {
-            "domain": ".blendshome.com",
-            "expiry": 1726353094,
-            "httpOnly": false,
-            "name": "tagtag_aid",
-            "path": "/",
-            "sameSite": "Lax",
-            "secure": true,
-            "value": "8306f3df287a03b6c7eb27f9a6f820f0"
-        },
-        "admitad_uid": "8306f3df287a03b6c7eb27f9a6f820f0",
+        "admitad_uid": "3b436db73e9ada96a2bfbc7086e14012",
         "Attribution": "admitad"
     },
     {
         "Status": 200,
         "Login": "silvermist_IN",
-        "Redirect_link": "https://silvermistjewelry.in/?utm_source=admitad&utm_medium=13130_&utm_campaign=admitad_may&tagtag_uid=36fff171d9ee0d443651f5eab9dab4f5",
+        "Redirect_link": "https://ad.admitad.com/giftmio/dummy/?utm_source=broken_links&utm_medium=none&utm_campaign=none&w=22162&c=99166&r=1&d=3&g=RU&x=a7af1648aab95454f4e4fe8f67f13bf7&y=c537ae3e459355c7cc8d919151cc6675",
         "Cookie": null,
         "admitad_uid": "Cookie not found",
-        "Attribution": "admitad"
+        "Attribution": "Cookie not found"
     },
     {
         "Status": 200,
         "Login": "aratain_IN",
-        "Redirect_link": "https://www.arata.in/?utm_source=admitad&utm_medium=13130_&utm_campaign=22162&tagtag_uid=baa948c7cdff8cc535de275327fb13f2",
+        "Redirect_link": "https://www.arata.in/?utm_source=admitad&utm_medium=13130_&utm_campaign=22162&tagtag_uid=4784b98e87566598d355d1fcf3965f68",
         "Cookie": null,
         "admitad_uid": "Cookie not found",
-        "Attribution": "admitad"
+        "Attribution": "Cookie not found"
     }
 ]
